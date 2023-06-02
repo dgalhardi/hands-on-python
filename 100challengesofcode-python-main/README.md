@@ -1,0 +1,147 @@
+## Beginner 
+- [Challenge 1:] Working with Variables in Python to Manage Data
+- [Challenge 2:] Understanding Data Types and How to Manipulate Strings
+- [Challenge 3:] Control Flow and Logical Operators
+- [Challenge 4:] Randomisation and Python Lists
+- [Challenge 5:] Python Loops
+- [Challenge 6:] Python Functions & Karel
+- [Challenge 7:] Hangman
+- [Challenge 8:] Function Parameters & Caesar Cipher
+- [Challenge 9:] Dictionaries, Nesting and the Secret Auction
+- [Challenge 10:] Functions with Outputs
+- [Challenge 11:] The Blackjack Capstone Project
+- [Challenge 12:] Scope & Number Guessing Game
+- [Challenge 13:] Debugging: How to Find and Fix Errors in your Code
+- [Challenge 14:] Higher Lower Game Project
+
+## Intermediate
+- [Challenge 15:] Local Development Environment Setup & the Coffee Machine
+- [Challenge 16:] Object Oriented Programming (OOP)
+- [Challenge 17:] The Quiz Project & The Benefits of OOP
+- [Challenge 18:] Turtle & the Graphical User Interface (GUI)
+- [Challenge 19:] Instances, State and Higher Order Functions
+- [Challenge 20:] Build the Snake Game Part 1: Animation & Coordinates
+- [Challenge 21:] Build the Snake Game Part 2: Inheritance & List Slicing
+- [Challenge 22:] Build Pong: The Famous Arcade Game
+- [Challenge 23:] The Turtle Crossing Capstone Project
+- [Challenge 24:] Files, Directories and Paths
+- [Challenge 25:] Working with CSV Data and the Pandas Library
+- [Challenge 26:] List Comprehension and the Nato Alphabet
+- [Challenge 27:] Tkinter, *args, **kwargs and Creating GUI Programs
+- [Challenge 28:] Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Challenge 29:] Building a Password Manager GUI App with Tkinter
+- [Challenge 30:] Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Challenge 31:] Flash Card App Capstone Project
+
+## Intermediate+
+- [Challenge 32:] Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Challenge 33:] API Endpoints & API Parameters - ISS Overhead Notifier
+- [Challenge 34:] API Practice - Creating a GUI Quiz App
+- [Challenge 35:] Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- [Challenge 36:] Stock Trading News Alert Project
+- [Challenge 37:] Habit Tracking Project: API Post Requests & Headers
+- [Challenge 38:] Workout Tracking Using Google Sheets
+- [Challenge 39:] Capstone Part 1: Flight Deal Finder
+- [Challenge 40:] Capstone Part 2: Flight Club
+- [Challenge 41:] Introduction to HTML
+- [Challenge 42:] Intermediate HTML
+- [Challenge 43:] Introduction to CSS
+- [Challenge 44:] Intermediate CSS
+- [Challenge 45:] Web Scraping with Beautiful Soup
+- [Challenge 46:] Create a Spotify Playlist Using The Musical Time Machine
+- [Challenge 47:] Create an Automated Amazon Price Tracker
+- [Challenge 48:] Selenium Webdriver Browser and Game Playing Bot
+- [Challenge 49:] Automating Job Applications on LinkedIn
+- [Challenge 50:] Auto Tinder Swiping Bot
+- [Challenge 51:] Internet Speed Twitter Complaint Bot
+- [Challenge 52:] Instagram Follower Bot
+- [Challenge 53:] Web Scraping Capstone - Data Entry Job Automation
+- [Challenge 54:] Introduction to Web Development with Flask
+- [Challenge 55:] HTML & URL Parsing in Flask and the Higher Lower Game
+- [Challenge 56:] Rendering HTML/Static Files and Using Website Templates
+- [Challenge 57:] Templating with Jinja in Flask Applications
+- [Challenge 58:] Web Foundation Boostrap
+
+## Advanced
+- [Challenge 59:] Blog Capstone Project Part 2 - Adding Styling
+- [Challenge 60:] Make POST Requests with Flask and HTML Forms
+- [Challenge 61:] Building Advanced Forms with Flask-WTForms
+- [Challenge 62:] Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
+- [Challenge 63:] mDatabases and with SQLite and SQLAlchemy
+- [Challenge 64:] My Top 10 Movies Website
+- [Challenge 65:] How to Create a Website That People Will Love
+- [Challenge 66:] Building Your Own API with RESTful Routing
+- [Challenge 67:] Blog Capstone Project Part 3 - RESTful Routing
+- [Challenge 68:] Authentication with Flask
+- [Challenge 69:] Blog Capstone Project Part 4 - Adding Users
+- [Challenge 70:] Deploying Your Web Application with Heroku
+- [Challenge 71:] Data Exploration with Pandas: College Major vs. Your Salary
+- [Challenge 72:] Data Visualisation with Matplotlib: Programming Languages
+- [Challenge 73:] Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
+- [Challenge 74:] Google Trends Data: Resampling and Visualising Time Series
+- [Challenge 75:] Beautiful Plotly Charts & Analysing the Android App Store
+- [Challenge 76:] Computation with NumPy and N-Dimensional Arrays
+- [Challenge 77:] Linear Regression and Data Visualisation with Seaborn
+- [Challenge 78:] Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- [Challenge 79:] The Tragic Discovery of Handwashing: t-Tests & Distributions
+- [Challenge 80:] Capstone Project - Predict House Prices
+
+## Professional Portfolio Projects
+- [Challenge 81:] Text to Morse Code Converter
+- [Challenge 82:] Portfolio Website
+- [Challenge 83:] Tic Tac Toe
+- [Challenge 84:] Image Watermarking Desktop App
+- [Challenge 85:] Typing Speed Test App
+- [Challenge 86:] Breakout: The Famous Arcade Game
+- [Challenge 87:] Cafe and Wifi Website
+- [Challenge 88:] To Do Agenda App
+- [Challenge 89:] Disappearing Text Writing App
+- [Challenge 90:] Convert PDF to Audiobook
+- [Challenge 91:] Image to Color List
+- [Challenge 92:] Amazon Canada Web Scraper
+- [Challenge 93:] Google Dinosaur Game Bot
+- [Challenge 94:] Space Invaders
+- [Challenge 95:] Custom API
+- [Challenge 96:] An Online Shop
+- [Challenge 97:] Percentage Calculator
+- [Challenge 98:] Analyzing and Visualizing the Space Race
+- [Challenge 99:] Analyzing Deaths Involving Police in the United States
+- [Challenge 100:] Predicting Earnings using Multivariable Regression
+
+## Tools and Technologies Covered
+- Python 3
+- PyCharm, Jupyter Notebook, Google Colab
+- Python Scripting and Automation
+- Python Game Development
+- Web Scraping
+- Beautiful Soup
+- Selenium Web Driver
+- Request
+- WTForms
+- Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Scikit learn
+- Seaborn
+- Turtle
+- Python GUI Desktop App Development
+- Tkinter
+- Front-End Web Development
+- HTML 5
+- CSS 3
+- Bootstrap 4
+- Bash Command Line
+- Git, GitHub and Version Control
+- Backend Web Development
+- Flask
+- REST
+- APIs
+- Databases
+- SQL
+- SQLite
+- PostgreSQL
+- Authentication
+- Web Design
+- Deployment with GitHub Pages, Heroku and GUnicorn
